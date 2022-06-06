@@ -1,4 +1,4 @@
-# Auto Typer
+# Auto-Typer
 
 Setup:
 
