@@ -1,4 +1,4 @@
-# Discord-Template-Sniper
+# Auto Typer
 
 Setup:
 
@@ -14,6 +14,7 @@ Setup:
 10. open setup.bat
 11. open start.bat
 12. enter settings, boom
+
 #-----------------
 
 Info:
