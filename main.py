@@ -1,7 +1,7 @@
 error = False
 try:
     import os
-    os.system("title " + "Auto Typer")
+    os.system("title " + "Auto Typer,   Made By blob#0005,   Github: github.com/blob0005")
 except:
     pass
 try:
